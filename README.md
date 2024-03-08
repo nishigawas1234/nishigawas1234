@@ -1,15 +1,6 @@
 <h1 align="center">Hi,I'm Nishigandha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer with professional experience in progressive web development, React, Angular, NextJs, JavaScript, HTML, CSS, Chakra UI, Tailwind CSS. Scrum, and agile-inspired </h3>
 
-- 🔭 I’m currently working at *ILM UX*
-
-- 🌱 I’m currently learning *Next JS*
-
-- 💬 Ask me about *html,css,js,react,nextjs*
-
-- 📫 How to reach me *gawasnishigandha@gmail.com*
-
-- ⚡ Fun fact *backbencher*
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
