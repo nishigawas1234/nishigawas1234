@@ -5,6 +5,7 @@
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://www.linkedin.com/in/nishigandha-gawas-868935203/" target="blank"><img align="center" src="https://www.svgrepo.com/show/134579/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nishigandha-gawas-868935203/" target="blank"><img align="center" src="[https://www.svgrepo.com/show/134579/linkedin.svg](https://cdn4.iconfinder.com/data/icons/socialcones/508/Gmail-512.png)" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
